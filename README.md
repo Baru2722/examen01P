@@ -3,6 +3,7 @@ link del video del examen: https://drive.google.com/drive/folders/1uoTcesO5Xws0n
 ## Getting Started
 
 First, run the development server:
+link del video del examen: https://drive.google.com/drive/folders/1uoTcesO5Xws0nq4ifPudeoFxHPTzyHJk
 
 ```bash
 npm run dev
